@@ -49,7 +49,7 @@ export function Dashboard() {
             <TabsList>
               <TabsTrigger value='overview'>Overview</TabsTrigger>
               <TabsTrigger value='analytics'>Analytics</TabsTrigger>
-              <TabsTrigger value='reports' disabled>
+              <TabsTrigger value='reports'>
                 Reports
               </TabsTrigger>
               <TabsTrigger value='notifications' disabled>
